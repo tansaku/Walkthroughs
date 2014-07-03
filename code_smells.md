@@ -11,6 +11,10 @@ Code Smell --> Refactoring
 
 Always drive refactoring through tests to make sure you don't break things!
 
+Appendix
+---------
+* [Boolean Parameters](http://programmers.stackexchange.com/questions/147977/is-it-wrong-to-use-a-boolean-parameter-to-determine-behavior)
+
 References
 ---------
 
