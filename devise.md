@@ -30,10 +30,12 @@ devise:
 * logging in with tests … --> add warden config to rails_helper.rb
 * adding log in operation to test:
 
-    `before do
-      user = User.create email: 'tansaku@gmail.com', password: '12345678', password_confirmation: '12345678'
-      login_as user
-    end`
+```ruby
+before do
+  user = User.create email: 'tansaku@gmail.com', password: '12345678', password_confirmation: '12345678'
+  login_as user
+end
+```
 
 * follow up - only allowing user to edit/delete restaurants they created - only one review per user …
 
