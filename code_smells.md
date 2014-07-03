@@ -5,7 +5,7 @@ Code Smell --> Refactoring
 * long method  --> extract method
 * repetition (duplicated code) --> extract commonality
 * nested control flow, e.g. ifs and loops --> extract method
-* magic numbers (extract constants) --> extract constant
+* magic numbers (constants) --> extract constant
 * responsibilities
 * indentation
 
