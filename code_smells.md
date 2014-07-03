@@ -7,3 +7,4 @@ Code Smell --> Refactoring
 * nested ifs --> extract method
 * magic numbers (extract constants) --> extract constant
 * responsibilities
+* indentation
