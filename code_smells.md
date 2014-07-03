@@ -9,6 +9,7 @@ Code Smell --> Refactoring
 * responsibilities
 * indentation
 
+Always drive refactoring through tests to make sure you don't break things!
 
 References
 ---------
