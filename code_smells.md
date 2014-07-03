@@ -16,4 +16,5 @@ References
 
 * [http://en.wikipedia.org/wiki/Code_smell](http://en.wikipedia.org/wiki/Code_smell)
 * [https://github.com/troessner/reek](https://github.com/troessner/reek)
+* [https://github.com/troessner/reek/wiki/Code-Smells](https://github.com/troessner/reek/wiki/Code-Smells)
 * [http://sourcemaking.com/refactoring/bad-smells-in-code](http://sourcemaking.com/refactoring/bad-smells-in-code)
